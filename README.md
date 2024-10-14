@@ -32,17 +32,4 @@ x is the first variable
 
 y is the second variable
 
-Sample JSON:
-```JSON
-{
-    "x":193,
-    "y":657
-}
-```
-Sample Response:
-```JSON
-{
-    "Message": -464,
-    "Status Code": 200
-}
-```
+
